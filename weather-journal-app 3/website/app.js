@@ -1,6 +1,6 @@
 /* Global Variables */
 const url_base = 'http://api.openweathermap.org/data/2.5/weather';
-const apiKey = 'a922bd0516eec7d184235a522963c834';
+const apiKey = '';
 
 
 // Create a new date instance dynamically with JS
